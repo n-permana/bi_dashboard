@@ -1,0 +1,21 @@
+origin_key,origin_country,origin_region,origin_continent
+1,Australia,Oceania,Oceania
+2,Canada,North America,Americas
+3,China,East Asia,Asia
+4,France,Europe,Europe
+5,Germany,Europe,Europe
+6,India,South Asia,Asia
+7,Japan,East Asia,Asia
+8,Malaysia,ASEAN,Asia
+9,Netherlands,Europe,Europe
+10,Others,Other,Other
+11,Philippines,ASEAN,Asia
+12,Russia,Europe,Europe
+13,Saudi Arabia,Middle East,Asia
+14,Singapore,ASEAN,Asia
+15,South Korea,East Asia,Asia
+16,Taiwan,East Asia,Asia
+17,Thailand,ASEAN,Asia
+18,Timor-Leste,ASEAN,Asia
+19,UK,Europe,Europe
+20,USA,North America,Americas

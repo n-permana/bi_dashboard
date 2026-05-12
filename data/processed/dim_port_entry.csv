@@ -1,0 +1,13 @@
+port_key,port_of_entry,port_province,port_type
+1,Atambua (Motaain),NTT,Land
+2,Batam,Kepulauan Riau,Sea
+3,Entikong,Kalimantan Barat,Land
+4,Juanda,Jawa Timur,Air
+5,Kualanamu,Sumatera Utara,Air
+6,Lombok,NTB,Air
+7,Ngurah Rai,Bali,Air
+8,Others,Lainnya,Mixed
+9,Sam Ratulangi,Sulawesi Utara,Air
+10,Soekarno-Hatta,DKI Jakarta,Air
+11,Tanjung Uban,Kepulauan Riau,Sea
+12,Yogyakarta,DI Yogyakarta,Air
